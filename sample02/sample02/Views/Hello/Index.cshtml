@@ -1,0 +1,23 @@
+﻿@model sample02.Models.UserModel
+
+@{
+    ViewData["Title"] = "モデルの練習";
+}
+
+<h1>モデルを使ってデータを表示する</h1>
+
+<form method="post">
+    <label>名前：</label>
+    <input type="text" name="name" /><br><br>
+
+    <label>年齢：</label>
+    <input type="number" name="age" /><br><br>
+
+    <button type="submit">送信</button>
+</form>
+
+@if (Model != null)
+{
+    <h2>こんにちは、@Model.Name さん！</h2>
+    <p>あなたは @Model.Age 歳ですね。</p>
+}

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qa114\\source\\repos\\sample02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0684FCCD-0B8A-4BC9-8C34-05ECCD95CE5C}|sample02\\sample02.csproj|c:\\users\\qa114\\source\\repos\\sample02\\sample02\\views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0684FCCD-0B8A-4BC9-8C34-05ECCD95CE5C}|sample02\\sample02.csproj|solutionrelative:sample02\\views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0684FCCD-0B8A-4BC9-8C34-05ECCD95CE5C}|sample02\\sample02.csproj|c:\\users\\qa114\\source\\repos\\sample02\\sample02\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0684FCCD-0B8A-4BC9-8C34-05ECCD95CE5C}|sample02\\sample02.csproj|solutionrelative:sample02\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0684FCCD-0B8A-4BC9-8C34-05ECCD95CE5C}|sample02\\sample02.csproj|c:\\users\\qa114\\source\\repos\\sample02\\sample02\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0684FCCD-0B8A-4BC9-8C34-05ECCD95CE5C}|sample02\\sample02.csproj|solutionrelative:sample02\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0684FCCD-0B8A-4BC9-8C34-05ECCD95CE5C}|sample02\\sample02.csproj|c:\\users\\qa114\\source\\repos\\sample02\\sample02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0684FCCD-0B8A-4BC9-8C34-05ECCD95CE5C}|sample02\\sample02.csproj|solutionrelative:sample02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0684FCCD-0B8A-4BC9-8C34-05ECCD95CE5C}|sample02\\sample02.csproj|c:\\users\\qa114\\source\\repos\\sample02\\sample02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0684FCCD-0B8A-4BC9-8C34-05ECCD95CE5C}|sample02\\sample02.csproj|solutionrelative:sample02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0684FCCD-0B8A-4BC9-8C34-05ECCD95CE5C}|sample02\\sample02.csproj|c:\\users\\qa114\\source\\repos\\sample02\\sample02\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0684FCCD-0B8A-4BC9-8C34-05ECCD95CE5C}|sample02\\sample02.csproj|solutionrelative:sample02\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 75,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\sample02\\sample02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "sample02\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\sample02\\sample02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "sample02\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:08:06.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\sample02\\sample02\\Views\\Hello\\Index.cshtml",
+              "RelativeDocumentMoniker": "sample02\\Views\\Hello\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\sample02\\sample02\\Views\\Hello\\Index.cshtml",
+              "RelativeToolTip": "sample02\\Views\\Hello\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T04:06:13.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\sample02\\sample02\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "sample02\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\sample02\\sample02\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "sample02\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:01:54.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\sample02\\sample02\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "sample02\\Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\sample02\\sample02\\Controllers\\HelloController.cs*",
+              "RelativeToolTip": "sample02\\Controllers\\HelloController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T03:32:17.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\sample02\\sample02\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "sample02\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\sample02\\sample02\\Models\\UserModel.cs",
+              "RelativeToolTip": "sample02\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T03:28:23.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\sample02\\sample02\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "sample02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\sample02\\sample02\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "sample02\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T02:48:38.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
