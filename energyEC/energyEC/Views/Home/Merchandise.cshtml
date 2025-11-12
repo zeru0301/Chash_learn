@@ -1,0 +1,68 @@
+﻿@model List<energyEC.Models.Product>
+@using Microsoft.AspNetCore.Components.Web
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  
+    <title>@ViewData["Title"]</title>
+</head>
+
+<body>
+
+    <main>
+        <section class="product">
+
+            <h1>商品一覧</h1>
+            
+            
+            
+            <div class="cont">
+                
+
+                @foreach (var p in Model)
+                {
+
+                        <div class="product-item">
+                            <h3>@p.ProductName</h3>
+                            <img src="~/@p.ProductImages" alt="@p.ProductName" class="product-img" />
+                        <p><strong>商品紹介</strong></p><p>@p.ProductDescription</p>
+                            <p><strong>価格：</strong>@p.ProductPrice 円</p>
+                   
+                            @if(p.CategoryId == 1)
+                            {
+                               <p>カテゴリー：シュガー 500ml 24本入り</p>
+                            }
+                            else
+                            {
+                            <p>カテゴリー：ノンシュガー　500ml 24本入り</p>
+                            }
+
+                            <form asp-action="Confirm" asp-controller="Home" method="get">
+                            <input type="hidden" name="ProductId" value="@p.ProductId" />
+                            <input type="number" name="Quantity" max="10" min="1" />
+                            <p><button type="submit">購入確認画面へ</button></p>
+                            </form>
+                        </div>
+                    
+                }
+           
+            </div>
+            
+              
+           
+
+        </section >
+      
+
+    </main>
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - energyEC - <a asp-controller="Home" asp-action="Inquiry">お問い合わせはこちら</a>
+        </div>
+    </footer>
+
+
+
+</body>
+
+

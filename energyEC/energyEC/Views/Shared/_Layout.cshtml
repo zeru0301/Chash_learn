@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - energyEC</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+</head>
+<body>
+    <header>
+        <a asp-controller="Home" asp-action="Index">
+            <h1>energyEC</h1>
+            </a>
+        <div class="menuBtn">
+            <span class="menuLine"></span>
+        </div>
+        <div class="overlayNav">
+            <nav class="gNav">
+                <ul class="hidn">
+                    <li class="nabItem"><a asp-controller="Home" asp-action="Index">HOME</a></li>
+                    <li class="nabItem"><a asp-controller="Home" asp-action="Merchandise">MERCHANDISE</a></li>
+                    <li class="nabItem"><a asp-controller="Home" asp-action="Inquiry">INQUIRY</a></li>
+
+                </ul>
+
+            </nav>
+        </div>
+
+    </header>
+    
+     @RenderBody()
+ 
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

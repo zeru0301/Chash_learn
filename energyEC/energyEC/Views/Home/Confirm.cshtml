@@ -1,0 +1,39 @@
+﻿@model energyEC.Models.ConfirmViewModel
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>@ViewData["Title"]</title>
+</head>
+
+<body>
+
+    <main>
+        <h2>購入内容の確認</h2>
+
+        <div class="intoro">
+            <h2>商品名：@Model.ProductName</h2>
+            <h2>価格：@Model.ProductPrice 円</h2>
+            <h2>数量：@Model.Quantity</h2>
+            <h2>合計金額：@(Model.ProductPrice* Model.Quantity) 円</h2>
+       
+
+        <form asp-action="Buy" asp-controller="Home" method="post">
+            <input type="hidden" name="ProductId" value="@Model.ProductId" />
+            <input type="hidden" name="Quantity" value="@Model.Quantity" />
+            <button type="submit">購入を確定する</button>
+        </form>
+       <a asp-controller="Home" asp-action="Merchandise">商品一覧画面へ戻る</a>
+        </div>
+   </main>
+    
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - energyEC - <a asp-controller="Home" asp-action="Inquiry">お問い合わせはこちら</a>
+        </div>
+    </footer>
+
+
+</body>
+

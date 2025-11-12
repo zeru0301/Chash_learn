@@ -1,0 +1,40 @@
+﻿@model energyEC.Models.ConfirmViewModel
+@{
+    <title>@ViewData["Title"] = "お問い合わせ内容の確認"</title>
+}
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    
+
+    
+</head>
+
+<body>
+
+    <main>
+        <h2>入力内容の確認</h2>
+
+        <div class="intoro">
+            <h2>件名：@Model.ContactName</h2>
+            <h2>お問い合わせ内容：@Model.ContactForm</h2>
+
+
+            <form asp-action="Contact" method="post">
+                <input type="hidden" name="ContactName" value="@Model.ContactName" />
+                <input type="hidden" name="ContactForm" value="@Model.ContactForm" />
+                <button type="submit">送信する</button>
+            </form>
+            <a asp-controller="Home" asp-action="Inquiry">コンタクトフォームに戻る</a>
+        </div>
+    </main>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - energyEC - <a asp-controller="Home" asp-action="Inquiry">お問い合わせはこちら</a>
+        </div>
+    </footer>
+
+
+</body>

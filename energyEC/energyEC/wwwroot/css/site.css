@@ -1,0 +1,410 @@
+body {
+    background-color: black;
+    color: yellowgreen;
+    margin: 0;
+    padding: 0;
+}
+
+/*ヘッダ*/
+header h1 {
+    background-color: rgb(11, 155, 19);
+    padding: 15px;
+    color: rgb(191, 191, 192);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    z-index: 3;
+}
+
+.overlayNav {
+    margin-top: 75px;
+    background-color: #1b92359a;
+    z-index: 4;
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    border: #030303 solid;
+    width: 100%;
+}
+
+.gNav ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.gNav li {
+    text-decoration: none;
+    list-style: none;
+    margin-right: 15px;
+}
+
+.gNav a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.gNav li a:hover {
+    color: rgb(240, 224, 82);
+    letter-spacing: 0.1em;
+    font: 16px bold;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
+}
+
+
+.imgBox {
+    display: flex;
+    flex-direction: row;
+    padding-left: 10%;
+}
+
+    .imgBox img {
+        margin: 0 auto;
+        width: 90%;
+        
+    }
+
+.intoro img {
+    padding-top: 20px;
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+    padding-bottom:20px;
+}
+
+/* ホーム */
+.intoro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 15px 30px;
+    padding: 15px 10%;
+    background-color: rgba(240, 248, 255, 0.13);
+    border-radius: 15px;
+}
+
+    .intoro h2 {
+        text-align: left;
+        font-size: 20px;
+        align-self: flex-start;
+        margin: 5px;
+    }
+
+    .intoro p {
+        font-size: 12px;
+        margin: 0;
+        padding-bottom: 5px;
+        align-self: flex-start;
+    }
+
+    .intoro a {
+        margin: 5px 0px;
+    }
+
+/* 商品一覧 */
+.product{
+    padding: 70px 10px 10px 10px;
+    
+ 
+}
+
+.cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border: solid black; 
+    gap: 30px; 
+    background-color: #494d4a;
+    border-radius: 10px;
+
+}
+
+/* お問い合わせ */
+.formBox {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 15px 30px;
+    padding: 15px 10%;
+    background-color: rgba(240, 248, 255, 0.13);
+    border-radius: 15px;
+}
+.formBox h2{
+    font-size: 20px;
+
+}
+
+textarea{
+    width: 300px;
+    height: 200px;
+
+}
+
+img{
+    width: 80%;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* メイン */
+main {
+    padding-top: 50px;
+    font-family: serif;
+}
+
+/* フッター */
+footer {
+    padding: 30px;
+    background-color: rgb(118, 168, 16);
+    color: aliceblue;
+    text-align: center;
+    margin: 0;
+}
+
+
+/*ボタン */
+.button-wrapper {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.formBox button{
+    border-radius: 10px;
+    background-color: #f8fc07;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+
+    
+}
+.product-item button{
+    border-radius: 10px;
+    background-color: #f8fc07;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+
+    
+}
+
+.btnProduct {
+    display: inline-block;
+    background-color: rgba(250, 250, 24, 0.856);
+    padding: 8px 30px;
+    border-radius: 20px;
+    text-decoration: none;
+    font: 15px bold;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    box-shadow: 1px 3px 3px 1px rgb(102, 112, 6);
+    transition: all 0.1s ease;
+}
+
+    .btnProduct:hover {
+        background-color: rgb(168, 185, 11);
+    }
+
+    .btnProduct:active {
+        background-color: rgb(102, 112, 6);
+    }
+
+.btnHome {
+    background-color: yellow;
+}
+
+
+/* カルーセル */
+.carusel {
+    overflow: hidden;
+}
+
+.carousel .imgBox {
+    display: flex;
+    transition: transform 0.5s;
+    text-align: center;
+    font-size: 20px;
+}
+
+.carousel .nav {
+    margin: 13px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex: 1;
+}
+
+.carousel .indicator {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 10px;
+}
+
+    .carousel .indicator li {
+        width: 13px;
+        height: 13px;
+        margin: 0 7px;
+        background-color: #b9bbb9;
+        border-radius: 100%;
+        cursor: pointer;
+    }
+
+        .carousel .indicator li.current {
+            background-color: #16e016b9;
+        }
+
+
+
+
+
+/* モバイル端末*/
+@media (Max-width:768px) {
+
+    /* メイン  */
+    .intoro h1 {
+        font-size: 20px;
+        margin: 5px;
+    }
+
+    .intoro h2 {
+        font-size: 15px;
+    }
+
+    .intoro p {
+        font-size: 8px;
+    }
+
+    .menuBtn {
+        width: 55px;
+        height: 55px;
+        border-radius: 8px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #030303;
+        /* �ʒu���Œ� */
+        position: fixed;
+        top: 5px;
+        right: 5px;
+    
+        cursor: pointer;
+        z-index: 399;
+        border: 1px solid #4aaf1a73;
+    }
+
+    .menuLine {
+        background: #22d84a;
+        display: block;
+        height: 2px;
+        width: 30px;
+        position: relative;
+        
+        transition: all 0.3s;
+    }
+
+        .menuLine::before,
+        .menuLine::after {
+            content: "";
+            display: block;
+            height: 2px;
+            width: 30px;
+            position: absolute;
+        
+            transition: all 0.3s;
+        }
+
+        .menuLine::before {
+            top: -10px;
+            background: #22d84a;
+        }
+
+        .menuLine::after {
+            top: 10px;
+            background: #22d84a;
+        }
+
+    /*ナビゲーション*/
+    .gNav {
+        font: 30px bold;
+        color: #e7e7e7;
+    }
+
+        .gNav ul {
+            font: 30px bold;
+            color: #e7e7e7;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .gNav li {
+            list-style: none;
+            padding: 50px;
+            border-bottom: solid;
+        }
+
+            .gNav li a {
+                display: flex;
+                letter-spacing: 0.1em;
+                text-decoration: none;
+                justify-content: center;
+                color: antiquewhite;
+            }
+
+                .gNav li a:hover {
+                    color: rgb(240, 224, 82);
+                    letter-spacing: 0.1em;
+                    font: 33px bold;
+                    transition-property: all;
+                    transition-duration: 0.3s;
+                    transition-timing-function: ease-out;
+                }
+
+    /* ------------------------
+   オーバーレイ
+  ------------------------ */
+    .overlayNav {
+    
+        background-color: #5bcc44c9;
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 80%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        opacity: 0;
+        transform: translateX(100%);
+        transition: all 0.3s;
+        z-index: 12;
+    }
+
+    /* ------------------------
+    ハンバーガーの線
+  ------------------------ */
+    .menuLine.active {
+        background: transparent;
+    }
+
+        .menuLine.active::before {
+            transform: rotate(45deg);
+            top: 0;
+        }
+        .menuLine.active::after {
+            transform: rotate(-45deg);
+            top: 0;
+        }
+
+    /* ------------------------
+        ハンバーガーのアクティブ
+  ------------------------ */
+    .overlayNav.show {
+        opacity: 1;
+        transform: none;
+    }
+}

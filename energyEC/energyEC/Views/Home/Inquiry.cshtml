@@ -1,0 +1,47 @@
+﻿@model energyEC.Models.ConfirmViewModel
+@{
+    ViewData["Title"] = "お問い合わせ";
+}
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+
+
+
+</head>
+
+<body>
+
+    <main>
+        <section class="product">
+        <h1>お問い合わせフォーム</h1>
+
+            <div class="cont">
+
+
+                <form asp-action="ContactConfim" asp-controller="Home" method="post">
+                <h2>件名</h2>
+                    <p><input type="text" name="ContactName" placeholder="題名を入力してください" /></p>
+                <h2>お問い合わせの内容</h2>
+                    <textarea name="ContactForm" cols="40" rows="10" maxlength="400" placeholder="内容を入力してください400文字まで" /></textarea>
+                <p><button type="submit">入力内容の確認</button></p>
+            </form>
+
+
+           </div>
+
+        </section >
+        
+    </main>
+
+    <footer class="border-top footer text-muted">
+    <div class="container">
+        &copy; 2025 - energyEC - <a asp-controller="Home" asp-action="Inquiry">お問い合わせはこちら</a>
+    </div>
+    </footer>
+
+
+</body>
+
+

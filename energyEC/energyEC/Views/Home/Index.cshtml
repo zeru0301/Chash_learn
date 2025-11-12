@@ -1,0 +1,62 @@
+﻿@using Microsoft.AspNetCore.Components.Web
+
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <title>@ViewData["Title"]</title>
+</head>
+
+<body>
+
+    <main>
+        <div class="carousel">
+            <div class="imgBox">
+                <img src="~/imgs/imgf2.png" alt="メインビュー1">
+                <img src="~/imgs/imgf3.png" alt="メインビュー2">
+                <img src="~/imgs/imgf4.png" alt="メインビュー3">
+                <img src="~/imgs/imgf6.png" alt="メインビュー4">
+            </div>
+            <div class="nav">
+                <button class="prev">◀</button>
+                <ol class="indicator"></ol>
+                <button class="next">▶</button>
+            </div>
+        </div>
+        <section class="intoro">
+
+            <h1>energyECへようこそ!</h1>
+            <h2>自社開発でリーズナブルな商品を作成しました！</h2>
+            <h2>ぜひその手に取り、わが社の製品を体感してみてください！！</h2>
+            <p>※注意:わが社の製品は箱売りでの販売となっております。</p>
+            <p>※返品などのお問い合わせは、お問い合わせホームのご利用お願いします。</p>
+            <div class="button-wrapper">
+                <a asp-controller="Home" asp-action="Merchandise" class="btnProduct">商品を見る</a>
+       
+            </div>
+            <h1>何故こんなに安いのか？</h1>
+            <h2>EnemyKは何故安いのか、それはサプライチェーンだからです。</h2>
+            <h2>原料から出荷までを自社で行っているため、物価率を最小限まで抑えられているのです。</h2>
+            <h2>そしてお客様へ届くまでの値段を最大限カットさせていただいております。</h2>
+            <img src="~/imgs/imgf1.png" alt="工場">
+
+            <h2>ぜひenergyKを手に取りパワフルな生活を満喫してください！！</h2>
+                <img src="~/imgs/imgf5.png" alt="工場">
+            <a asp-controller="Home" asp-action="Merchandise" class="btnProduct">商品を手に入れる！</a>
+      
+
+        </section >
+        
+        
+
+    </main>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - energyEC - <a asp-controller="Home" asp-action="Inquiry">お問い合わせはこちら</a>
+        </div>
+    </footer>
+
+</body>
+
+

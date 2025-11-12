@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qa114\\source\\repos\\energyEC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|c:\\users\\qa114\\source\\repos\\energyec\\energyec\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|solutionrelative:energyec\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|c:\\users\\qa114\\source\\repos\\energyec\\energyec\\models\\confirmviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|solutionrelative:energyec\\models\\confirmviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|c:\\users\\qa114\\source\\repos\\energyec\\energyec\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|solutionrelative:energyec\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|c:\\users\\qa114\\source\\repos\\energyec\\energyec\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|solutionrelative:energyec\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|c:\\users\\qa114\\source\\repos\\energyec\\energyec\\models\\purchasehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|solutionrelative:energyec\\models\\purchasehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|c:\\users\\qa114\\source\\repos\\energyec\\energyec\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|solutionrelative:energyec\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|c:\\users\\qa114\\source\\repos\\energyec\\energyec\\views\\home\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|solutionrelative:energyec\\views\\home\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|c:\\users\\qa114\\source\\repos\\energyec\\energyec\\views\\home\\complete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|solutionrelative:energyec\\views\\home\\complete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|c:\\users\\qa114\\source\\repos\\energyec\\energyec\\views\\home\\contactconfim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|solutionrelative:energyec\\views\\home\\contactconfim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|c:\\users\\qa114\\source\\repos\\energyec\\energyec\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|solutionrelative:energyec\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|c:\\users\\qa114\\source\\repos\\energyec\\energyec\\views\\home\\inquiry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|solutionrelative:energyec\\views\\home\\inquiry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|c:\\users\\qa114\\source\\repos\\energyec\\energyec\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|solutionrelative:energyec\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|c:\\users\\qa114\\source\\repos\\energyec\\energyec\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|solutionrelative:energyec\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|c:\\users\\qa114\\source\\repos\\energyec\\energyec\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|solutionrelative:energyec\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|c:\\users\\qa114\\source\\repos\\energyec\\energyec\\wwwroot\\sqltxt.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|solutionrelative:energyec\\wwwroot\\sqltxt.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|c:\\users\\qa114\\source\\repos\\energyec\\energyec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|solutionrelative:energyec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|c:\\users\\qa114\\source\\repos\\energyec\\energyec\\energyec.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|solutionrelative:energyec\\energyec.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|c:\\users\\qa114\\source\\repos\\energyec\\energyec\\wwwroot\\sqltxt.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{CF6CCF1F-C1E3-488F-9AB5-427D07FBAA9D}|energyEC\\energyEC.csproj|solutionrelative:energyec\\wwwroot\\sqltxt.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 75,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "energyEC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Models\\Product.cs",
+              "RelativeToolTip": "energyEC\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:59:18.01Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "energyEC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "energyEC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T02:22:07.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfirmViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Models\\ConfirmViewModel.cs",
+              "RelativeDocumentMoniker": "energyEC\\Models\\ConfirmViewModel.cs",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Models\\ConfirmViewModel.cs",
+              "RelativeToolTip": "energyEC\\Models\\ConfirmViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T05:37:23.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "energyEC\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "energyEC\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T03:28:21.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "energyEC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "energyEC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:59:15.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PurchaseHistory.cs",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Models\\PurchaseHistory.cs",
+              "RelativeDocumentMoniker": "energyEC\\Models\\PurchaseHistory.cs",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Models\\PurchaseHistory.cs",
+              "RelativeToolTip": "energyEC\\Models\\PurchaseHistory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T05:06:59.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Confirm.cshtml",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Views\\Home\\Confirm.cshtml",
+              "RelativeDocumentMoniker": "energyEC\\Views\\Home\\Confirm.cshtml",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Views\\Home\\Confirm.cshtml",
+              "RelativeToolTip": "energyEC\\Views\\Home\\Confirm.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T06:13:45.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Complete.cshtml",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Views\\Home\\Complete.cshtml",
+              "RelativeDocumentMoniker": "energyEC\\Views\\Home\\Complete.cshtml",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Views\\Home\\Complete.cshtml",
+              "RelativeToolTip": "energyEC\\Views\\Home\\Complete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T06:25:26.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactConfim.cshtml",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\EnergyEc\\energyEC\\Views\\Home\\ContactConfim.cshtml",
+              "RelativeDocumentMoniker": "energyEC\\Views\\Home\\ContactConfim.cshtml",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\EnergyEc\\energyEC\\Views\\Home\\ContactConfim.cshtml",
+              "RelativeToolTip": "energyEC\\Views\\Home\\ContactConfim.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T05:52:58.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "energyEC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "energyEC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T04:39:13.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Inquiry.cshtml",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Views\\Home\\Inquiry.cshtml",
+              "RelativeDocumentMoniker": "energyEC\\Views\\Home\\Inquiry.cshtml",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Views\\Home\\Inquiry.cshtml",
+              "RelativeToolTip": "energyEC\\Views\\Home\\Inquiry.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T05:37:29.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "energyEC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "energyEC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T05:37:31.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "energyEC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "energyEC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T05:37:32.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "energyEC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "energyEC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-07T09:08:01.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "sqltxt.sql ",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\wwwroot\\sqltxt.sql",
+              "RelativeDocumentMoniker": "energyEC\\wwwroot\\sqltxt.sql",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\wwwroot\\sqltxt.sql",
+              "RelativeToolTip": "energyEC\\wwwroot\\sqltxt.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-10T06:19:49.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Program.cs",
+              "RelativeDocumentMoniker": "energyEC\\Program.cs",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\energyEC\\energyEC\\Program.cs",
+              "RelativeToolTip": "energyEC\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T04:01:36.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "energyEC.csproj",
+              "DocumentMoniker": "C:\\Users\\qa114\\source\\repos\\EnergyEc\\energyEC\\energyEC.csproj",
+              "RelativeDocumentMoniker": "energyEC\\energyEC.csproj",
+              "ToolTip": "C:\\Users\\qa114\\source\\repos\\EnergyEc\\energyEC\\energyEC.csproj",
+              "RelativeToolTip": "energyEC\\energyEC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-08T04:08:27.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

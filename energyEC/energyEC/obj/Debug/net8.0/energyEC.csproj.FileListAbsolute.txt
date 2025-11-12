@@ -1,0 +1,9 @@
+C:\Users\qa114\source\repos\EnergyEc\energyEC\obj\Debug\net8.0\energyEC.csproj.AssemblyReference.cache
+C:\Users\qa114\source\repos\EnergyEc\energyEC\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\qa114\source\repos\EnergyEc\energyEC\obj\Debug\net8.0\energyEC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qa114\source\repos\EnergyEc\energyEC\obj\Debug\net8.0\energyEC.AssemblyInfoInputs.cache
+C:\Users\qa114\source\repos\EnergyEc\energyEC\obj\Debug\net8.0\energyEC.AssemblyInfo.cs
+C:\Users\qa114\source\repos\EnergyEc\energyEC\obj\Debug\net8.0\energyEC.csproj.CoreCompileInputs.cache
+C:\Users\qa114\source\repos\EnergyEc\energyEC\obj\Debug\net8.0\energyEC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\qa114\source\repos\EnergyEc\energyEC\obj\Debug\net8.0\energyEC.RazorAssemblyInfo.cache
+C:\Users\qa114\source\repos\EnergyEc\energyEC\obj\Debug\net8.0\energyEC.RazorAssemblyInfo.cs
