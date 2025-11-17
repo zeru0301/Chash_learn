@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ukVvU8jvx5k=",
+  "dgSpecHash": "Fhy/THRAYUw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\qa114\\source\\repos\\EnergyEc\\energyEC\\energyEC.csproj",
+  "projectFilePath": "C:\\Users\\qa114\\Desktop\\gitFile\\Chash_learn\\energyEC\\energyEC\\energyEC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\qa114\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\qa114\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

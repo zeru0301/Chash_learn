@@ -1,0 +1,4 @@
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\c#sqlBeginner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\c#sqlBeginner.AssemblyInfoInputs.cache
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\c#sqlBeginner.AssemblyInfo.cs
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\c#sqlBeginner.csproj.CoreCompileInputs.cache

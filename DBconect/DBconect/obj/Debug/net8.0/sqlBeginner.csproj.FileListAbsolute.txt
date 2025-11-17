@@ -1,0 +1,14 @@
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\sqlBeginner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\sqlBeginner.AssemblyInfoInputs.cache
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\sqlBeginner.AssemblyInfo.cs
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\sqlBeginner.csproj.CoreCompileInputs.cache
+C:\Users\qa114\source\repos\DBconect\DBconect\bin\Debug\net8.0\sqlBeginner.exe
+C:\Users\qa114\source\repos\DBconect\DBconect\bin\Debug\net8.0\sqlBeginner.deps.json
+C:\Users\qa114\source\repos\DBconect\DBconect\bin\Debug\net8.0\sqlBeginner.runtimeconfig.json
+C:\Users\qa114\source\repos\DBconect\DBconect\bin\Debug\net8.0\sqlBeginner.dll
+C:\Users\qa114\source\repos\DBconect\DBconect\bin\Debug\net8.0\sqlBeginner.pdb
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\sqlBeginner.dll
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\refint\sqlBeginner.dll
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\sqlBeginner.pdb
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\sqlBeginner.genruntimeconfig.cache
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\ref\sqlBeginner.dll

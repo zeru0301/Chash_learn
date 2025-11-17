@@ -1,0 +1,14 @@
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\DBconect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\DBconect.AssemblyInfoInputs.cache
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\DBconect.AssemblyInfo.cs
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\DBconect.csproj.CoreCompileInputs.cache
+C:\Users\qa114\source\repos\DBconect\DBconect\bin\Debug\net8.0\DBconect.exe
+C:\Users\qa114\source\repos\DBconect\DBconect\bin\Debug\net8.0\DBconect.deps.json
+C:\Users\qa114\source\repos\DBconect\DBconect\bin\Debug\net8.0\DBconect.runtimeconfig.json
+C:\Users\qa114\source\repos\DBconect\DBconect\bin\Debug\net8.0\DBconect.dll
+C:\Users\qa114\source\repos\DBconect\DBconect\bin\Debug\net8.0\DBconect.pdb
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\DBconect.dll
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\refint\DBconect.dll
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\DBconect.pdb
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\DBconect.genruntimeconfig.cache
+C:\Users\qa114\source\repos\DBconect\DBconect\obj\Debug\net8.0\ref\DBconect.dll
