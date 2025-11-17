@@ -1,7 +1,7 @@
 ﻿using MySql.Data.MySqlClient;
 
 // 1. 接続文字列
-string connStr = "server=localhost;user=root;password=Aimino1103;database=zeru_db;";
+string connStr = "server=localhost;user=root;password=pass;database=zeru_db;";
 
 // 2. 接続
 using (var conn = new MySqlConnection(connStr))
